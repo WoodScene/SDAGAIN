@@ -1,7 +1,7 @@
 # SDA_GAIN
 
-The source code for Spatial-attention and Demographic-augmented Generative Adversarial Imputation Network for Population Health Data Reconstruction   
-Thank you for your interest in our work, we have uploaded the code for all models here.
+The source code for "Spatial-attention and Demographic-augmented Generative Adversarial Imputation Network for Population Health Data Reconstruction"   
+Published on IEEE Transactions on Big Data
 
 ## Requirements
 Install python, tensorflow. We use Python 3.7, Tensorflow 1.14.0.
